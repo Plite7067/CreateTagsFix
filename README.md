@@ -7,5 +7,5 @@ The createccfix folder is the datapack - you just need to install it using your 
 
 If you have any issues or ideas for improvement, create an issue.
 
-For if you want to contact me:
+If you want to contact me:
 https://discord.gg/Pc274BAeZN
