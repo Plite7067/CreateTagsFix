@@ -7,5 +7,8 @@ The createccfix folder is the datapack - you just need to install it using your 
 
 If you have any issues or ideas for improvement, create an issue.
 
+Modrinth:
+https://modrinth.com/datapack/createccmodemfix
+
 If you want to contact me:
 https://discord.gg/Pc274BAeZN
