@@ -7,6 +7,8 @@ Both the createccfix folder and zip work as datapacks - you just need to install
 
 If you have any issues or ideas for improvement, create an issue.
 
+If you have other blocks that have the same problem, please comment on the issue.
+
 Modrinth:
 https://modrinth.com/datapack/createccmodemfix
 
