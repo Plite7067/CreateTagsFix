@@ -5,7 +5,7 @@ This will also include the full block wired modem, but I do not believe that thi
 
 Both the createccfix folder and zip work as datapacks - you just need to install it using your preferred method of installing datapacks.
 
-Blocks:\
+Supported Blocks:\
 supplementaries candle holders\
 computercraft modems\
 vanilla moss carpet
