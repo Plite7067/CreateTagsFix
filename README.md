@@ -3,7 +3,7 @@ Fixes various blocks on create contraptions.
 This works by adding tags to modded, and some vanilla blocks. Check out createccfix/data/create/tags/blocks/ for a list of tags and blocks. The tags are the file names.\
 The fix for the original problem was suggested by the author of this [issue](https://github.com/tweaked-programs/cccbridge/issues/82), and now the project has expanded to adding tags to any blocks that need a create tag.
 
-Both the createccfix folder and zip work as datapacks - you just need to install it using your preferred method of installing datapacks.
+Both the createccfix folder and zip work as datapacks - you just need to install it using your preferred method of installing datapacks into your saves/world/datapack directory.
 
 Supported Blocks:\
 supplementaries candle holders\
