@@ -20,4 +20,4 @@ Modrinth - also has the datapack packaged as a fabric and forge mod for ease of 
 https://modrinth.com/datapack/createccmodemfix
 
 If you want to contact me:
-https://discord.gg/Pc274BAeZN
+https://discord.gg/JVnsenjzUd
