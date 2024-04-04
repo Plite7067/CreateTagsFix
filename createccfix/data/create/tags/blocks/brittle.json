@@ -20,6 +20,14 @@
       {
          "id":"#supplementaries:candle_holders",
          "required":false
+      },
+      {
+         "id":"#minecraft:banners",
+	 "required":false
+      },
+      {
+         "id":"minecraft:cake",
+	 "required":false
       }
    ]
 }

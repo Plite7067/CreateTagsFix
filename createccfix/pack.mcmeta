@@ -2,6 +2,6 @@
   "pack": {
     "pack_format": 15,
     "supported_formats": {"min_inclusive": 9, "max_inclusive": 100},
-    "description": "Adds create:brittle tag to ender, wired and wireless modems to stop them breaking on create contraptions."
+    "description": "Adds create block tags to blocks to stop them breaking on create contraptions."
   }
 }
