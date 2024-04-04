@@ -8,7 +8,9 @@ Both the createccfix folder and zip work as datapacks - you just need to install
 Supported Blocks:\
 supplementaries candle holders\
 computercraft modems\
-vanilla moss carpet
+vanilla moss carpet\
+vanilla banners\
+vanilla cake
 
 The CC modems have been fixed in a dev version of cc:tweaked, but there are versions of minecraft that do not have the update yet, so they are staying for now.
 
