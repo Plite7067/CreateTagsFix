@@ -10,7 +10,7 @@ supplementaries candle holders\
 computercraft modems\
 vanilla moss carpet
 
-The CC modems have been fixed in a dev version of cc:tweaked, but there are versions of minecraft that do not havve the update yet, so they are staying for now.
+The CC modems have been fixed in a dev version of cc:tweaked, but there are versions of minecraft that do not have the update yet, so they are staying for now.
 
 If you have any issues or ideas for improvement, create an issue.
 
