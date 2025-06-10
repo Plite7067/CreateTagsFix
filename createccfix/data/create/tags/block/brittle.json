@@ -2,32 +2,8 @@
    "replace":false,
    "values":[
       {
-         "id":"computercraft:wireless_modem_normal",
-         "required":false
-      },
-      {
-         "id":"computercraft:wireless_modem_advanced",
-         "required":false
-      },
-      {
-         "id":"#computercraft:wired_modem",
-         "required":false
-      },
-      {
-         "id":"minecraft:moss_carpet",
-         "required":false
-      },
-      {
          "id":"#supplementaries:candle_holders",
          "required":false
-      },
-      {
-         "id":"#minecraft:banners",
-	 "required":false
-      },
-      {
-         "id":"minecraft:cake",
-	 "required":false
       }
    ]
 }
