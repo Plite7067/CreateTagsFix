@@ -4,10 +4,6 @@
       {
          "id":"#supplementaries:candle_holders",
          "required":false
-      },
-      {
-         "id":"#minecraft:banners",
-         "required":false
       }
    ]
 }
