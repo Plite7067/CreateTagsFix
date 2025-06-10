@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 15,
+    "pack_format": 48,
     "supported_formats": {"min_inclusive": 9, "max_inclusive": 100},
     "description": "Adds create block tags to blocks to stop them breaking on create contraptions."
   }
